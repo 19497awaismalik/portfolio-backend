@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "fname": "M.AWAIS",
+      "lname": "malik",
+      "email": "19497.awais@mao.edu.pk",
+      "message": "Message",
+      "id": 1
+    },
+    {
+      "fname": "M.AWAIS",
+      "lname": "malik",
+      "email": "19497.awais@mao.edu.pk",
+      "message": "Message",
+      "id": 2
+    },
+    {
+      "fname": "M.AWAIS",
+      "lname": "malik",
+      "email": "19497.awais@mao.edu.pk",
+      "message": "Contact me on my number is 03702502753",
+      "id": 3
+    }
+  ]
+}
