@@ -10,12 +10,12 @@ const PORT = process.env.PORT || 3006;
 server.options("",cors({
     origin:"http://locahost:5173",
     credentials:true,
-    methods:["POST",]
+    methods:["GET","POST","PUT","DELETE"]
 }))
 server.use(cors({
     origin:"http://localhost:5173",
     credentials:true,
-    methods:["POST"]
+    methods:["GET","POST","PUT","DELETE"]
 }))
 server.use(middlewares);
 server.use(router);
